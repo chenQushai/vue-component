@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.el-popover.speed-popover {
+    padding: 0;
+}
+
+.el-date-picker__header {
+    margin: 12px 0 0 !important;
+    padding: 0 12px;
+}
